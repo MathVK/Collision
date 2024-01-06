@@ -1,0 +1,4 @@
+Passer de Point a PVector
+passer de random à noise pour le ground
+transformer int en float
+remplacer les valeurs en hard par des valeurs
